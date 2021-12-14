@@ -620,7 +620,7 @@ Cannot read the previousTitle for a route that has not yet been installed''',
                       child: child)
                   : child);
           
-        case Transition.ciruclarReveal:
+        case Transition.circularReveal:
           return CircularRevealTransition().buildTransitions(
               context,
               route.curve,
