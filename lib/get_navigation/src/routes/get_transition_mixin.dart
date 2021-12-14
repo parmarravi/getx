@@ -8,7 +8,6 @@ import 'package:flutter/material.dart';
 
 import '../../../get.dart';
 import 'default_transitions.dart';
-import 'transitions_type.dart';
 
 const double _kBackGestureWidth = 20.0;
 const int _kMaxDroppedSwipePageForwardAnimationTime =
